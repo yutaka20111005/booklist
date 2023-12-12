@@ -3,11 +3,14 @@ book info for individual learning
 
 # 独学のための書籍一覧
 更新日時：2023/12/12(Tue)
+
 対象　　：ビギナー(For beginner)
 
 ### 1. 動作環境
 OS : Ubuntu 22.04.3
+
 Python : 3.10.12
+
 Streamlit : 1.29.0
 
 #### 1-1. Streamlit 参照URL
