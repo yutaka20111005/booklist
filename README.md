@@ -8,7 +8,9 @@ book info for individual learning
 
 ### 1. 動作環境
 OS : Ubuntu 22.04.3
+
 Python : 3.10.12
+
 Streamlit : 1.29.0
 
 #### 1-1. Streamlit 参照URL
