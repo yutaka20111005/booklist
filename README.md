@@ -32,7 +32,10 @@ pandas : 2.1.3
 
 streamlit run app.py
 
-ブラウザアクセス（例）　http://xxxxxxxx:8501/
+URL（exsample）　http://xxxxxxxx:8501/
+
+![image](https://github.com/yutaka20111005/booklist/assets/1104486/ce1a538e-ae53-497d-bce7-4ce522fe897c)
+
 
 
 ### 3. その他（利用例）
